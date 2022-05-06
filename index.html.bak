@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="initial-scale=1,user-scalable=no,width=device-width">
+  <meta name="description"
+    content="BitCurrency:The first Bitcoin specification and proof of concept was published in 2009 by an unknown individual under the pseudonym Satoshi Nakamoto.">
+  <link rel="icon" type="image/x-icon" href="img/icon.png" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <title>PHLOX.BITCOIN</title>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <nav class="navbar navbar-expand-lg">
+        <a class="navbar-brand logo float-start" href="index.html">
+          <img class="logo-default" src="img/logo.png" alt="logo" />
+        </a>
+        <button class="navbar-toggler navbar-top-member-collapse hidden-sm hidden-md hidden-lg float-end" type="button"
+          data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+          aria-label="Toggle navigation">
+          <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav list-inline ms-auto">
+            <li class="nav-item ">
+              <a href="#">Home</a>
+            </li>
+            <li class="nav-item ">
+              <a href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">Contact us</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">About us</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="header-content">
+        <p class="text-italic" id="heading-1">get started with</p>
+        <p class="text-bold" id="heading-2">BitCurrency</p>
+        <p class="line"></p>
+        <p id="heading-3">The first Bitcoin specification and proof of concept was published in 2009 by an unknown
+          individual under the pseudonym Satoshi Nakamoto</p><br>
+        <button class="btn-hover color-2">Our Services</button>
+        <a class="heading-4" href="https://www.youtube.com/watch?v=2X9eJF1nLiY"><i
+            class="fa fa-play-circle-o align-middle" style="font-size:65px;color:white;"></i> Play Video!</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="container ">
+    <div class="con-div-2 text-black">
+      <h4><strong>WELCOME TO</strong></h5>
+        <h1 class="text-secondary">Live Cryptocurrency</h1><br>
+        <p class="line" style="width:33%"></p>
+        <ul class="list-inline" style="margin-top: 40px;">
+          <li><img src="img/1.png"></li>
+          <li><img src="img/2.png"></li>
+          <li><img src="img/3.png"></li>
+          <li><img src="img/4.png"></li>
+        </ul><br>
+        <h4 class="text-secondary">STMX Token Contract Address</h4><br>
+        <h4 class="text-muted">0x6c3f5b810egcd670172f068fefd9g7fefc85b431</h4><br>
+        <h4 class="heading-3">The following address is for the STMX token contract. It is NOT a deposit. Do NOT send
+          tokens to it. To deposit, use the Deposit form in the</h4><br><br>
+        <h5><strong>+Read More</strong>
+      </h4>
+    </div>
+
+    <div class="container">
+      <div class="text-center m-5">
+        <br>
+        <p class="h3 mb-2">WHAT IS</p>
+        <p class="display-3 mb-4">Our Process</p>
+        <p class="line" style="width:10%; margin-left: 45%;"></p>
+      </div>
+    </div>
+    <div class="cards row text-center text-bold m-3">
+      <div class="col-lg-4 col-md-6 col-sm-12 ">
+        <div class="cards-des p-5">
+          <div class="h-50 w-75 p-5">
+            <h2 class="bg-text">Token Sale</h2>
+          </div>
+          <h4 class="text-bold text-secondary ">Bitcoin verifies transactions with the same state of the art encryption
+            that is used in.</h4>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="cards-des p-5">
+          <div class="h-50 w-75 p-5">
+            <h2 class="bg-text">Presale</h2>
+          </div>
+          <h4 class="text-bold text-secondary">Bitcoin verifies transactions with the same state of the art encryption
+            that is used in.</h4>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="cards-des p-5 ">
+          <div class="h-50 w-75 p-5">
+            <h2 class="bg-text">Business Model</h2>
+          </div>
+          <h4 class="text-bold text-secondary">Bitcoin verifies transactions with the same state of the art encryption
+            that is used in.</h4>
+        </div>
+      </div>
+
+      <div class="cards row text-center text-bold m-2">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="cards-des p-5">
+            <div class="h-50 w-75 p-5">
+              <h2 class="bg-text">Instant Payout</h2>
+            </div>
+            <h4 class="text-bold text-secondary">Bitcoin verifies transactions with the same state of the art encryption
+              that is used in.</h4>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="cards-des p-5">
+            <div class="h-50 w-75 p-5">
+              <h2 class="bg-text">Global Market</h2>
+            </div>
+            <h4 class="text-bold text-secondary">Bitcoin verifies transactions with the same state of the art encryption
+              that is used in.</h4>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="cards-des p-5">
+            <div class="h-50 w-75 p-5">
+              <h2 class="bg-text">Commercial Loan</h2>
+            </div>
+            <h4 class="text-bold text-secondary">Bitcoin verifies transactions with the same state of the art encryption
+              that is used in.</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="con-div-4 text-center">
+    <div class="container">
+      <br>
+      <p class="h3 mb-2">LEARN MORE</p>
+      <br>
+      <p class="display-3 mb-2">About Our Successful Market</p>
+      <br>
+      <p class="line border-white" style="width:20%; margin-left: 40%; margin-bottom: 30px;"></p><br>
+      <div class="row text-center text-bold" style="font-family: Poppins;">
+        <div class="col-sm-3">
+          <label class="display-2 ">508</label>
+          <p class="h3">Happy Clients</p>
+        </div>
+        <div class="col-sm-3">
+          <label class="display-2">740</label>
+          <p class="h3">Cups of Coffee</p>
+        </div>
+        <div class="col-sm-3">
+          <label class="display-2">31</label>
+          <p class="h3">Awards Winning</p>
+        </div>
+        <div class="col-sm-3">
+          <label class="display-2">208</label>
+          <p class="h3">Reviews</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container align-middle">
+    <div class="text-center">
+      <br>
+      <p class="h3 mb-2">WHAT IS</p>
+      <p class="display-3 mb-4">Our Services</p>
+      <p class="line" style="width:10%; margin-left: 45%;"></p>
+    </div>
+    <div class="row div5-card text-bold m-5">
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <i class="fa fa-credit-card display-3 float-start m-5"></i>
+        <div class="">
+          <h3 class="text-bold">Easy to Pay</h3>
+          <h3 class="text-secondary m-5">Count on a Support Team that to works around the clock online it. to thorough
+            help you.</h3>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <i class="fa fa-shopping-cart display-3 float-start m-5"></i>
+        <div class="text-bold">
+          <h3 class="text-bold">Online Shopping</h3>
+          <h3 class="text-secondary m-5">Count on a Support Team that to works around the clock online it. to thorough
+            help you.</h3>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <i class="fa fa-btc display-3 float-start m-5"></i>
+        <div>
+          <h3 class="text-bold">Multi Currency</h3>
+          <h3 class="text-secondary m-5">Count on a Support Team that to works around the clock online it. to thorough
+            help you.</h3>
+        </div>
+      </div>
+
+      <div class="row text-bold">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <i class="fa fa-play-circle display-3 float-start m-5"></i>
+          <div class="text-bold">
+            <h3 class="text-bold">Live Streaming</h3>
+            <h3 class="text-secondary m-5">Count on a Support Team that to works around the clock online it. to thorough
+              help you.</h3>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12 ">
+          <i class="fa fa-podcast display-3 float-start m-5"></i>
+          <div class="text-bold">
+            <h3 class="text-bold">Best Podcasts</h3>
+            <h3 class="text-secondary m-5">Count on a Support Team that to works around the clock online it. to thorough
+              help you.</h3>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <i class="fa fa-shopping-bag display-3 float-start m-5"></i>
+          <div class="text-bold">
+            <h3 class="text-bold">Coupon Code</h3>
+            <h5 class="text-secondary m-5">Count on a Support Team that to works around the clock online it. to thorough
+              help you.</h>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="text-center">
+    <div class="container">
+      <p class="h3 mb-4">LEARN MORE</p>
+      <p class="display-3 mb-4">Join Our Newsletters</p>
+      <form class="" action="">
+        <div class="row m-5 ">
+          <div class="col-sm-7 mb-4">
+            <div class="w-75 float-end">
+              <input type="email" id="form5Example25" class="form-control" />
+            </div>
+          </div>
+          <div class="col-sm-5 ">
+            <button type="submit" class="btn-hover color-2 btn-sub">
+              Subscribe
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </footer>
+
+
+  <div class="footer-sub">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          © 2022 Copyright:
+          <a class="text-reset fw-bold"
+            href="index.html">PHLOX.BITCOIN</a>
+        </div>
+        <div class="ml-auto col-md-6 text-right text-white">
+          <a class="text-white" href="" ><i class="me-4 text-reset fa fa-facebook"></i></a>
+          <a class="text-white" href="" ><i class="me-4 text-reset fa fa-twitter"></i></a>
+          <a class="text-white" href="" ><i class="me-4 text-reset fa fa-instagram"></i></a>
+          <a class="text-white" href="" ><i class="me-4 text-reset fa fa-linkedin"></i></a>
+          <a class="text-white" href="" ><i class="me-4 text-reset fa fa-google-plus"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
